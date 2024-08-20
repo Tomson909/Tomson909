@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I am Tom!
+
+- **🏛️ Education:** Finished bachelor in physics early 2024 at [CAU Kiel](https://www.uni-kiel.de/de/). Now studying data science at the [FH Kiel](https://www.fh-kiel.de/startseite/). 
+
+- **🔭 Work:** Im currently working in the [IKMB Kiel](https://www.ikmb.uni-kiel.de/) and implementing classifiers in order to predict disease development in inflamatory diseases like crohn's disease. 
+
+- **🤔 Who am I?** I'm trying to be ambitious in work and live. Other than that I like to play guitar in a band, like to do sports to keep my back healthy and just chill with friends and do nothing.
+
+
+## Skills
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 <!--
 **Tomson909/Tomson909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
