@@ -4,8 +4,7 @@
 
 - **🔭 Work:** Im currently working in the [IKMB Kiel](https://www.ikmb.uni-kiel.de/) and implementing classifiers in order to predict disease development in inflamatory diseases like crohn's disease. 
 
-- **🤔 Who am I?** I'm trying to be ambitious in work and live. Other than that I like to play guitar in a band, like to do sports to keep my back healthy and just chill with friends and do nothing.
-
+- **🤔 Who am I?** I'm ambitious in data science and live to come up with answers no one has asked before. Other than that I like to play guitar in a band, like to do sports to keep my back healthy and just chill with friends and do nothing.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
