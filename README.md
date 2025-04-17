@@ -4,13 +4,15 @@
 
 - **🔭 Work:** Im currently working in the [IKMB Kiel](https://www.ikmb.uni-kiel.de/) and implementing classifiers in order to predict disease development in inflamatory diseases like crohn's disease. 
 
-- **🤔 Who am I?** I'm ambitious in data science and like to come up with answers no one has asked before. Other than that I like to play guitar in a band, like to do sports to keep my back healthy and just chill with friends and do nothing.
+- **🤔 Who am I?** I'm passionate about data science and enjoy exploring new ideas—especially finding insights that might not be immediately obvious or answering questions that haven't been asked yet. Other than that I like to play guitar, like to do sports to keep my back healthy and just chill with friends.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
