@@ -2,9 +2,7 @@
 
 - **🏛️ Education:** Finished bachelor in physics early 2024 at [CAU Kiel](https://www.uni-kiel.de/de/). Now studying data science at the [FH Kiel](https://www.fh-kiel.de/startseite/). 
 
-- **🔭 Work:** Im currently working at [Bosch Rexroth](https://www.ikmb.uni-kiel.de/) as an intern and develop machine learning algorithms to automate end of line testing. I also carry out proof of concepts of machine learning use cases using python.
-
-- **🤔 Who am I?** I'm passionate about data science and enjoy exploring new ideas—especially finding insights that might not be immediately obvious or answering questions that haven't been asked yet. Other than that I like to play guitar, like to do sports to keep my back healthy and just chill with friends.
+- **🔭 Work:** I am currently writing my master's thesis at Siemens.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
